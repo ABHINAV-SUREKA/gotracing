@@ -1,2 +1,2 @@
 # gotracing
-Tracing instrumentation in Golang
+Tracing instrumentation initialisation example using Golang
